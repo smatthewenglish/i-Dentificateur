@@ -1,0 +1,8 @@
+// Load the English dictionary collection of P.W.Daly
+// Adds submodes UK and US; default is liberal British
+
+    LoadDictionaries('eng_dic.dat');
+    LoadModes('modes.dat');
+    Prompt("English (liberal British default) dictionaries loaded.",0,1);
+
+End;

@@ -1,0 +1,8 @@
+// Load the English dictionary collection of P.W.Daly
+// Adds submodes UK and US; default is UK
+
+    LoadDictionaries('eng_UK.dat');
+    LoadModes('modes.dat');
+    Prompt("English (UK default) dictionaries loaded.",0,1);
+
+End;

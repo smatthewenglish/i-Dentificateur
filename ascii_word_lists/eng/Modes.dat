@@ -1,0 +1,17 @@
+119
+
+TeX
+Default|*.*
+TeX|*.tex;*.ltx;*.sty
+HTML|*.html;*.htm
+ASCII|*.*;*.dic;*.bat;;
+ANSI|*.*;*.txt
+DATA|*.*;*.dat;*.ini;*.cfg
+RTF|*.rtf
+:US|*.*
+:UK|*.*
+Soft|*.*;*.soft
+Binary|*.*;*.exe;*.dvi
+Applications|*.exe;*.bat
+:UNIX|*.*;*.unix
+

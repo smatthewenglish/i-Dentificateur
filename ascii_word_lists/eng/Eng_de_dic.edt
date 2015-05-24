@@ -1,0 +1,8 @@
+// Load the English dictionary collection of P.W.Daly and German dictionaries
+
+    Requires(20000222);
+
+    LoadDictionaries('eng_de_dic.dat');
+    Prompt("English + German (UK, US, standard, DE) dictionaries loaded.",0,1);
+
+End;
