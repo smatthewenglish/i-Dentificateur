@@ -101,8 +101,8 @@ Alternatively if you want to see a new feature let me know!
 ### References
 
  - Word lists employed were downloaded from the [WinEdt Dictionaries](http://www.winedt.org/Dict/).
- - The conception of utilizing Bloom filters was inspired, in addition to the above mentioned paper, by [Daniel Spiewak](http://www.codecommit.com/blog/scala/bloom-filters-in-scala).
- - My Bloom filter implementation drew on the work of [Magnus Skjegstad](https://github.com/magnuss/java-bloomfilter) for guidance.
+ - The concept of utilizing Bloom filters for this project was inspired, in addition to the above mentioned paper, by [Daniel Spiewak](http://www.codecommit.com/blog/scala/bloom-filters-in-scala).
+ - This Bloom filter implementation draws on the work of [Magnus Skjegstad](https://github.com/magnuss/java-bloomfilter).
 
 
 License
