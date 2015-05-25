@@ -2,12 +2,16 @@
 
 ![id_2](https://cloud.githubusercontent.com/assets/9053984/7790715/1b59cad2-02c3-11e5-8ad4-417db2d6c2f6.jpg)
 
-a small programme to identify the language a document or text fragment is written in
+*a small programme to identify the language a document or text fragment is written in*
+
+![ui](http://i.stack.imgur.com/aiEUV.png)
 
 
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
+  
+
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
 
