@@ -84,6 +84,19 @@ Alternatively if you want to see a new feature let me know!
  - Optimize size of Bloom filters
  - Unify input UI and output UI
 
+ 
+### Supported Languages
+
+ * Italiano
+ * Français
+ * English
+ * Deutsch
+ * Español
+ * Nederlandse
+ * Português
+
+
+
 License
 ----
 
