@@ -2,9 +2,7 @@
 
 ![id_2](https://cloud.githubusercontent.com/assets/9053984/7790715/1b59cad2-02c3-11e5-8ad4-417db2d6c2f6.jpg)
 
-*a small programme to identify the language a document or text fragment is written in*
-
-![ui](http://i.stack.imgur.com/aiEUV.png)
+*a small programme to identify the human language of a document or text fragment*
 
 
   - Type some Markdown on the left
@@ -59,9 +57,18 @@ $ gulp build --prod
 $ NODE_ENV=production node app
 ```
 
-### Plugins
+### Usage
 
-Dillinger is currently extended with the following plugins
+Execution of the above commands will invoke the User Interface:
+
+![ui](http://i.stack.imgur.com/aiEUV.png)
+
+**Text Fragment**
+Click the radio button adjacent to the word '*Text*', in the corresponding box input a fragment or sentence to evaluate the language in which it is written. 
+
+**Document**
+
+
 
 * Dropbox
 * Github
