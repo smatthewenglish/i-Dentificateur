@@ -4,10 +4,16 @@
 
 *a small programme to identify the human language of a document or text fragment*
 
+The methodoligies used herein were selected on the basis of:
+
+> Garg, Archana, Vishal Gupta, and Manish Jindal. "*A Survey of Language Identification Techniques and Applications*." Journal of Emerging Technologies in Web Intelligence 6.4 (2014): 388-400.
+
 ### How does it work?
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
+  - The programme stores a dictionary of each language for which it is operable in the form of a [Bloom filter](http://billmill.org/bloomfilter-tutorial/)
+  - For an input text we search through the Bloom filters for each language incrementing an associated count whenever a word in the text corresponds to a word in one of our dictionaries. 
+  - Finally, the language of the dictionary with the highest valued representive count variable is determined the winner. 
+
+This method is surprisingly effective, able to correctly identify such potentially perplexing text fragments as "*Schwarzenegger in Kindergarten Cop*". 
   
 
 
