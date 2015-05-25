@@ -1,4 +1,7 @@
-# iDentificateur
+# i-Dentificateur
+
+![id_2](https://cloud.githubusercontent.com/assets/9053984/7790715/1b59cad2-02c3-11e5-8ad4-417db2d6c2f6.jpg)
+
 a small programme to identify the language a document or text fragment is written in
 
 
