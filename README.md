@@ -77,7 +77,7 @@ Alternatively if you want to see a new feature let me know!
 
 ### TODO
 
-> a software is never done, you just stop working on it
+> "a software is never done, you just stop working on it"
 
  - Add support for Chinese (Pinyin) and Russian
  - Programatically enforce specific encoding of stored lists and input text
