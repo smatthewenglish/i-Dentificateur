@@ -1,6 +1,6 @@
 # i-Dentificateur
 
-*a small programme to identify the human language of a document or text fragment*
+*a simple programme to identify the human language of a document or text fragment*
 
 
 ![id_2](https://cloud.githubusercontent.com/assets/9053984/7790715/1b59cad2-02c3-11e5-8ad4-417db2d6c2f6.jpg)
