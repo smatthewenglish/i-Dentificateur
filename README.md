@@ -52,20 +52,19 @@ Navigate to the directory and unzip it.
 ```sh
 $ unzip master.zip
 ```
-'*cd*' into the directory with the source files.
+'*cd* ' into the directory with the source files.
 ```sh
 $ cd i-Dentificateur-master/
 ```
-
-
+Compile with the command
 ```sh
-$ git clone [git-repo-url] dillinger
-$ cd dillinger
-$ npm i -d
-$ mkdir -p public/files/{md,html,pdf}
-$ gulp build --prod
-$ NODE_ENV=production node app
+$ javac *.java
 ```
+Run with the command 
+```sh
+$ java iDentificateur
+```
+
 
 ### Usage
 
