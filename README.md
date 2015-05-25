@@ -48,6 +48,15 @@ Download the project zip file.
 ```sh
 $ wget https://github.com/h1395010/i-Dentificateur/archive/master.zip
 ```
+Navigate to the directory and unzip it. 
+```sh
+$ unzip master.zip
+```
+'*cd*' into the directory with the source files.
+```sh
+$ cd i-Dentificateur-master/
+```
+
 
 ```sh
 $ git clone [git-repo-url] dillinger
@@ -104,9 +113,9 @@ $ gulp watch
 $ karma start
 ```
 
-### Todo's
+### TODO
 
-**a software is never done, you just stop working on it**
+> a software is never done, you just stop working on it
 
  - Add support for Chinese (Pinyin) and Russian
  - Programatically enforce specific encoding of stored lists and input text
