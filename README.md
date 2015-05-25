@@ -67,7 +67,7 @@ Click the radio button adjacent to the word '*Text*', in the corresponding box i
 
 **Document**
 
-Indicate the radio button beside the word '*Document*', this action will prompt an local explorer window, navigate to the file of interest and make the selection, this will initiate the evaluation process.
+Indicate the radio button beside the word '*File*', this action will prompt an local explorer window, navigate to the file of interest and make the selection, this will initiate the evaluation process.
 
 
 ### Development
