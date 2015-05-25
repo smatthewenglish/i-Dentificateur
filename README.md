@@ -24,7 +24,8 @@ Markdown is a lightweight markup language based on the formatting conventions th
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ### Version
-3.0.2
+
+&beta;
 
 ### Tech
 
@@ -42,10 +43,10 @@ Dillinger uses a number of open source projects to work properly:
 
 ### Installation
 
-You need Gulp installed globally:
+Download the project zip file. 
 
 ```sh
-$ npm i -g gulp
+$ wget https://github.com/h1395010/i-Dentificateur/archive/master.zip
 ```
 
 ```sh
@@ -64,16 +65,13 @@ Execution of the above commands will invoke the User Interface:
 ![ui](http://i.stack.imgur.com/aiEUV.png)
 
 **Text Fragment**
-Click the radio button adjacent to the word '*Text*', in the corresponding box input a fragment or sentence to evaluate the language in which it is written. 
+
+Click the radio button adjacent to the word '*Text*', in the corresponding box input a fragment or sentence to assess the language in which it is written. 
 
 **Document**
 
+Indicate the radio button beside the word '*Document*', this action will prompt an local explorer window, navigate to the file of interest and make the selection, this will initiate the evaluation process.
 
-
-* Dropbox
-* Github
-* Google Drive
-* OneDrive
 
 Readmes, how to use them in your own application can be found here:
 
@@ -108,10 +106,12 @@ $ karma start
 
 ### Todo's
 
- - Write Tests
- - Rethink Github Save
- - Add Code Comments
- - Add Night Mode
+**a software is never done, you just stop working on it**
+
+ - Add support for Chinese (Pinyin) and Russian
+ - Programatically enforce specific encoding of stored lists and input text
+ - Optimize size of Bloom filters
+ - Unify input UI and output UI
 
 License
 ----
@@ -119,7 +119,6 @@ License
 MIT
 
 
-**Free Software, Hell Yeah!**
 
 [john gruber]:http://daringfireball.net/
 [@thomasfuchs]:http://twitter.com/thomasfuchs
