@@ -17,7 +17,6 @@ The methodoligies used herein were selected on the basis of:
   - Finally, the language of the dictionary with the highest valued representive count variable is determined the winner. 
 
 This method is surprisingly effective, able to correctly identify such potentially perplexing text fragments as "*Schwarzenegger in Kindergarten Cop*". 
-  
 
 
 ### Version
@@ -82,6 +81,7 @@ Alternatively if you want to see a new feature let me know!
 
 > "a software is never done, you just stop working on it"
 
+ - Handle exceptions at a higher level in the program and exit if an unusable state is detected
  - Add support for Chinese (Pinyin) and Russian
  - Programatically enforce specific encoding of stored lists and input text
  - Optimize size of Bloom filters
@@ -111,4 +111,6 @@ License
 MIT
 
 
+
+*Note: As per placement of braces within the code I have not followed the traditional Java convention as it's asymetry is disconcerting. 
 
