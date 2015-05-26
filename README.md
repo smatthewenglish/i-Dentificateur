@@ -112,5 +112,5 @@ MIT
 
 
 
-**Note**: Regarding *placement of braces* within the code I have not followed the traditional Java convention as it's asymetry is disconcerting. 
+**Note**: Regarding *placement of braces* this code follows a symetrical style in lieu of the traditional Java convention 
 
